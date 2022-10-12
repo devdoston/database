@@ -69,4 +69,10 @@ public class MoviesController : ControllerBase
 
         return Ok(deletedMovie);
      }
+     
+     [HttpPut]
+     public async Task<IActionResult> Put([FromRoute] Guid Id)
+     {
+     return Ok();
+     }
 }
