@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dostonbek/Desktop/database/databases.csproj": {}
+    "/home/dostonbek/Desktop/Visual_Studio_Code/database/databases.csproj": {}
   },
   "projects": {
-    "/home/dostonbek/Desktop/database/databases.csproj": {
+    "/home/dostonbek/Desktop/Visual_Studio_Code/database/databases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dostonbek/Desktop/database/databases.csproj",
+        "projectUniqueName": "/home/dostonbek/Desktop/Visual_Studio_Code/database/databases.csproj",
         "projectName": "databases",
-        "projectPath": "/home/dostonbek/Desktop/database/databases.csproj",
+        "projectPath": "/home/dostonbek/Desktop/Visual_Studio_Code/database/databases.csproj",
         "packagesPath": "/home/dostonbek/.nuget/packages/",
-        "outputPath": "/home/dostonbek/Desktop/database/obj/",
+        "outputPath": "/home/dostonbek/Desktop/Visual_Studio_Code/database/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dostonbek/.nuget/NuGet/NuGet.Config"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.109/sdk/6.0.109/RuntimeIdentifierGraph.json"
         }
       }
     }

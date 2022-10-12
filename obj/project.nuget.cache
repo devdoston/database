@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ie32NpquwswFU9m6CZPoWw3zUYUpcCIbUQ3ISqEur0OW34H9yEYBtBJsRbzek6gkXwGrbjg5vzSG4hxyYkvzIA==",
+  "dgSpecHash": "quKIN/A0K055VsjcsmbJgyplxhmzO2hGtO7byzmc+5glTK5nOjyheGR1DDWiUcgC8t8/+Z9wzZHQwLQJM5OeXQ==",
   "success": true,
-  "projectFilePath": "/home/dostonbek/Desktop/database/databases.csproj",
+  "projectFilePath": "/home/dostonbek/Desktop/Visual_Studio_Code/database/databases.csproj",
   "expectedPackageFiles": [
     "/home/dostonbek/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/dostonbek/.nuget/packages/microsoft.data.sqlite.core/6.0.6/microsoft.data.sqlite.core.6.0.6.nupkg.sha512",

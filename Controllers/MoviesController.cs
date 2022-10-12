@@ -62,5 +62,11 @@ public class MoviesController : ControllerBase
     {
         return Ok(await _context.Movies.FirstOrDefaultAsync(m => m.Id == Id));
     }
-     
+     [HttpDelete]
+     public async Task<IActionResult> Delete ([FromRoute] Guid id)
+     {
+        var deletedMovie = _context.Movies.FirstOrDefault(m => m.Id == id);
+
+        return Ok(deletedMovie);
+     }
 }
